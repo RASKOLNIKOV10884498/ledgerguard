@@ -1,0 +1,21 @@
+# Database / Supabase
+supabase==2.31.0
+psycopg2-binary==2.9.12
+python-dotenv==1.1.1
+pydantic==2.11.7
+
+# Data engineering
+pandas==2.3.3
+numpy==2.3.3
+
+# Dashboard / visualization
+dash==3.2.0
+dash-bootstrap-components==2.0.4
+plotly==6.3.0
+
+# Testing
+pytest==8.4.2
+pytest-cov==6.2.1
+
+# Production server
+gunicorn==23.0.0
